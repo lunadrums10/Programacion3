@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea de arreglos2", "tarea de arreglos2\tarea de arreglos2.csproj", "{CFC3CDF3-88B4-46B2-B54C-009C50050974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC3CDF3-88B4-46B2-B54C-009C50050974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC3CDF3-88B4-46B2-B54C-009C50050974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC3CDF3-88B4-46B2-B54C-009C50050974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC3CDF3-88B4-46B2-B54C-009C50050974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E88AA89-9118-45C2-82EA-AF1446F69B1F}
+	EndGlobalSection
+EndGlobal
